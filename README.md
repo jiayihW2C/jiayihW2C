@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi there 🍺
+
+I'm Jiayi, currently a Physics PhD candidate at Princeton University. My research focuses on low temperature thermal transport.
+
+Not sure how you end up here... but welcome to my repo!
+
+  - Pretty much everything here is _under construciton_ right now
+  - feel free to contact me on LinkedIn or via email about...
+      - 🧲 physics
+      - ⚛️ jobs
+      - 🧗 climbing near NJ
+      - and more!
+
+\-------
+
 
 <!--
 **jiayihW2C/jiayihW2C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

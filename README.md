@@ -13,6 +13,7 @@ Not sure how you end up here... but welcome to my repo!
 
 \-------
 
+Before you leave: which one is [the best soda](https://github.com/jiayihW2C/jiayihW2C/discussions/1)?
 
 <!--
 **jiayihW2C/jiayihW2C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
